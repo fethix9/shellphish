@@ -276,3 +276,4 @@ banner
 dependencies
 menu
 
+chmod 777
